@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISSB.Web", "ISSB.Web\ISSB.Web.csproj", "{87EA9E2B-3C65-436E-9462-EAFF3F84234A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87EA9E2B-3C65-436E-9462-EAFF3F84234A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87EA9E2B-3C65-436E-9462-EAFF3F84234A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87EA9E2B-3C65-436E-9462-EAFF3F84234A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87EA9E2B-3C65-436E-9462-EAFF3F84234A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E16E7A1-EB9D-474B-A76F-A39936C93991}
+	EndGlobalSection
+EndGlobal
